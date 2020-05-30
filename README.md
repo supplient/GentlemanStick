@@ -1,2 +1,2 @@
 # GentlemanStick
-我做来方便自己从绅士之庭下本子的python脚本
+我做来方便自己下本子的python脚本
